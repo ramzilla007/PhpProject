@@ -6,3 +6,8 @@
  * and open the template in the editor.
  */
 
+$string1 = 'Hello';
+$string2 = 'World';
+$string3 = "$string1 $string2";
+
+echo $string3;
